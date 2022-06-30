@@ -1,0 +1,12 @@
+Step run result
+
+-----FirstTest---------
+1. run tsc firstTest.js
+2. run node firstTest.js
+3. input array of number 
+4. input expect number
+
+-----FirstTest---------
+1. run tsc secondTest.js
+2. run node secondTest.js
+3. input array of number 
